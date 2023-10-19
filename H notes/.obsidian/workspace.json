@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "882f8e6b638a81bf",
+        "id": "c4e8a57bd6e0bbf7",
         "type": "tabs",
         "children": [
           {
-            "id": "9ae45eb2d330d662",
+            "id": "21b490af860961b8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Privesc/Linux/LXD.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Privesc/Linux/LXD.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Privesc/Linux/LXD.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Privesc/Linux/LXD.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -147,8 +139,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9ae45eb2d330d662",
+  "active": "21b490af860961b8",
   "lastOpenFiles": [
+    "IP and stuff.md",
+    "Untitled.md",
+    "Stuff.md",
+    "Test.md",
+    "Privesc/Both/Firefox decrypt.md",
     "Buffer overflow/1. Fuzz.md",
     "Privesc/Linux/LXD.md",
     "Untitled.canvas",
@@ -156,7 +153,6 @@
     "Buffer overflow/3. Bad characters.md",
     "Buffer overflow/2. Offset.md",
     "Buffer overflow/4. Find module.md",
-    "Privesc/Both/Firefox decrypt.md",
     "Privesc/Windows/Untitled.md",
     "Buffer overflow/5. Generate shellcode.md"
   ]
