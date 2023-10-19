@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Buffer overflow/2. Offset.md",
+                "file": "Buffer overflow/3. Bad characters.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Buffer overflow/2. Offset.md",
+                "file": "Buffer overflow/3. Bad characters.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Buffer overflow/2. Offset.md",
+                "file": "Buffer overflow/3. Bad characters.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,13 +118,24 @@
                 "useHierarchy": true
               }
             }
+          },
+          {
+            "id": "20fd80409be157da",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Buffer overflow/3. Bad characters.md"
+              }
+            }
           }
         ],
         "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -138,11 +149,11 @@
   },
   "active": "9ae45eb2d330d662",
   "lastOpenFiles": [
+    "Buffer overflow/2. Offset.md",
     "Buffer overflow/1. Fuzz.md",
     "2023-10-19.md",
     "Buffer overflow/3. Bad characters.md",
     "Buffer overflow/4. Find module.md",
-    "Buffer overflow/2. Offset.md",
     "Privesc/Both/Firefox decrypt.md",
     "Privesc/Windows/Untitled.md",
     "Buffer overflow/5. Generate shellcode.md"
