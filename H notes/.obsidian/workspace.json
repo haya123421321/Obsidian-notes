@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Buffer overflow/1. Fuzz.md",
+                "file": "Buffer overflow/2. Offset.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Buffer overflow/1. Fuzz.md",
+                "file": "Buffer overflow/2. Offset.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Buffer overflow/1. Fuzz.md",
+                "file": "Buffer overflow/2. Offset.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,23 +118,13 @@
                 "useHierarchy": true
               }
             }
-          },
-          {
-            "id": "dea24c18aab3ad95",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Buffer overflow/1. Fuzz.md"
-              }
-            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -148,10 +138,11 @@
   },
   "active": "9ae45eb2d330d662",
   "lastOpenFiles": [
+    "Buffer overflow/1. Fuzz.md",
+    "2023-10-19.md",
     "Buffer overflow/3. Bad characters.md",
     "Buffer overflow/4. Find module.md",
     "Buffer overflow/2. Offset.md",
-    "Buffer overflow/1. Fuzz.md",
     "Privesc/Both/Firefox decrypt.md",
     "Privesc/Windows/Untitled.md",
     "Buffer overflow/5. Generate shellcode.md"
