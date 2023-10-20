@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LFI/Log Poisoning.md",
+                "file": "LFI/0. What is LFI.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LFI/Log Poisoning.md",
+                "file": "LFI/0. What is LFI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LFI/Log Poisoning.md",
+                "file": "LFI/0. What is LFI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LFI/Log Poisoning.md"
+                "file": "LFI/0. What is LFI.md"
               }
             }
           }
@@ -149,17 +149,18 @@
   },
   "active": "9de197385a4557d0",
   "lastOpenFiles": [
+    "Buffer overflow/4. Find module.md",
+    "Buffer overflow/3. Bad characters.md",
+    "Buffer overflow/2. Offset.md",
+    "Buffer overflow/1. Fuzz.md",
     "LFI/0. What is LFI.md",
     "LFI/Log Poisoning.md",
-    "LFI/Bypass filters.md",
     "LFI/Interesting files.md",
+    "LFI/Bypass filters.md",
     "LFI",
     "LFI",
-    "Buffer overflow/3. Bad characters.md",
     "Buffer overflow/5. Generate shellcode.md",
     "Buffer overflow/Mona.md",
-    "Buffer overflow/4. Find module.md",
-    "Buffer overflow/1. Fuzz.md",
     "IP and stuff.md",
     "Stuff.md",
     "Test.md",
@@ -167,7 +168,6 @@
     "Privesc/Linux/LXD.md",
     "Untitled.canvas",
     "2023-10-19.md",
-    "Buffer overflow/2. Offset.md",
     "Privesc/Windows/Untitled.md"
   ]
 }
