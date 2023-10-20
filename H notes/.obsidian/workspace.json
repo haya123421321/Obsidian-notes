@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "c4e8a57bd6e0bbf7",
+        "id": "2eedc4362be56b3e",
         "type": "tabs",
         "children": [
           {
-            "id": "21b490af860961b8",
+            "id": "9de197385a4557d0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "LFI/Log Poisoning.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -65,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "f532230ac068e815",
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "LFI/Log Poisoning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "LFI/Log Poisoning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "LFI/Log Poisoning.md"
+              }
             }
           }
         ],
@@ -139,21 +147,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "21b490af860961b8",
+  "active": "9de197385a4557d0",
   "lastOpenFiles": [
+    "LFI/0. What is LFI.md",
+    "LFI/Log Poisoning.md",
+    "LFI/Bypass filters.md",
+    "LFI/Interesting files.md",
+    "LFI",
+    "LFI",
+    "Buffer overflow/3. Bad characters.md",
+    "Buffer overflow/5. Generate shellcode.md",
+    "Buffer overflow/Mona.md",
+    "Buffer overflow/4. Find module.md",
+    "Buffer overflow/1. Fuzz.md",
     "IP and stuff.md",
-    "Untitled.md",
     "Stuff.md",
     "Test.md",
     "Privesc/Both/Firefox decrypt.md",
-    "Buffer overflow/1. Fuzz.md",
     "Privesc/Linux/LXD.md",
     "Untitled.canvas",
     "2023-10-19.md",
-    "Buffer overflow/3. Bad characters.md",
     "Buffer overflow/2. Offset.md",
-    "Buffer overflow/4. Find module.md",
-    "Privesc/Windows/Untitled.md",
-    "Buffer overflow/5. Generate shellcode.md"
+    "Privesc/Windows/Untitled.md"
   ]
 }
