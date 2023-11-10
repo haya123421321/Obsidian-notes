@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "81795b0e8e9ffe06",
+        "id": "87989c057b9b2b67",
         "type": "tabs",
         "children": [
           {
-            "id": "68c9847436ff3eba",
+            "id": "b2f35a3006247741",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Buffer overflow/5. Generate shellcode.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Buffer overflow/5. Generate shellcode.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Buffer overflow/5. Generate shellcode.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Buffer overflow/5. Generate shellcode.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -147,18 +139,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "68c9847436ff3eba",
+  "active": "b2f35a3006247741",
   "lastOpenFiles": [
-    "Buffer overflow/4. Find module.md",
-    "Buffer overflow/5. Generate shellcode.md",
-    "Buffer overflow/Mona.md",
+    "Payloads/Paylods.md",
+    "Payloads/Staged and Stageless payloads.md",
     "Stabilizing shell.md",
-    "Staged and Stageless.md",
-    "Untitled",
-    "LFI/0. What is LFI.md",
-    "Buffer overflow/3. Bad characters.md",
+    "Payloads",
+    "Buffer overflow/5. Generate shellcode.md",
     "Buffer overflow/2. Offset.md",
+    "Buffer overflow/Mona.md",
+    "Buffer overflow/4. Find module.md",
     "Buffer overflow/1. Fuzz.md",
+    "Buffer overflow/3. Bad characters.md",
+    "Staged and Stageless.md",
+    "LFI/0. What is LFI.md",
     "LFI/Log Poisoning.md",
     "LFI/Interesting files.md",
     "LFI/Bypass filters.md",
