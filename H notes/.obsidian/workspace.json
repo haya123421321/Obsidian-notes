@@ -11,8 +11,12 @@
             "id": "b2f35a3006247741",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Privesc/Linux/Cronjob.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Privesc/Linux/Cronjob.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Privesc/Linux/Cronjob.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Privesc/Linux/Cronjob.md"
+              }
             }
           }
         ],
@@ -141,9 +149,18 @@
   },
   "active": "b2f35a3006247741",
   "lastOpenFiles": [
+    "LFI/Interesting files.md",
+    "LFI/Log Poisoning.md",
+    "LFI/Bypass filters.md",
+    "LFI/0. What is LFI.md",
+    "Privesc/Linux/Cronjob.md",
+    "Privesc/Linux/Getcap.md",
+    "Privesc/Linux/Sudo.md",
+    "Privesc/Linux/LXD.md",
+    "Privesc/Both/Firefox decrypt.md",
+    "Stabilizing shell.md",
     "Payloads/Paylods.md",
     "Payloads/Staged and Stageless payloads.md",
-    "Stabilizing shell.md",
     "Payloads",
     "Buffer overflow/5. Generate shellcode.md",
     "Buffer overflow/2. Offset.md",
@@ -152,16 +169,7 @@
     "Buffer overflow/1. Fuzz.md",
     "Buffer overflow/3. Bad characters.md",
     "Staged and Stageless.md",
-    "LFI/0. What is LFI.md",
-    "LFI/Log Poisoning.md",
-    "LFI/Interesting files.md",
-    "LFI/Bypass filters.md",
     "Privesc/Linux/Suid.md",
-    "Privesc/Linux/Sudo.md",
-    "Privesc/Linux/Getcap.md",
-    "Privesc/Linux/Cronjob.md",
-    "Privesc/Linux/LXD.md",
-    "Privesc/Both/Firefox decrypt.md",
     "LFI",
     "LFI",
     "IP and stuff.md",
