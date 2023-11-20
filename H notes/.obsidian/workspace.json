@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "87989c057b9b2b67",
+        "id": "5684592582bbf83f",
         "type": "tabs",
         "children": [
           {
-            "id": "b2f35a3006247741",
+            "id": "277f3b51bf5ec8fb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Payloads/Payloads.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Payloads/Payloads.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Payloads/Payloads.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Payloads/Payloads.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -147,36 +139,38 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b2f35a3006247741",
+  "active": "277f3b51bf5ec8fb",
   "lastOpenFiles": [
     "Stabilizing shell.md",
+    "Post Exploit/History files.md",
+    "Post Exploit/Privesc/Linux/Cronjob.md",
+    "Untitled.md",
+    "Payloads/Staged and Stageless payloads.md",
+    "Post Exploit",
+    "Payloads/Payloads.md",
+    "LFI/0. What is LFI.md",
+    "LFI/Bypass filters.md",
+    "LFI/Interesting files.md",
+    "LFI/Log Poisoning.md",
+    "Post Exploit/Privesc/Linux/Suid.md",
+    "Post Exploit/Privesc/Linux/Sudo.md",
+    "Post Exploit/Privesc/Linux/LXD.md",
+    "Post Exploit/Privesc/Linux/Getcap.md",
     "Buffer overflow/5. Generate shellcode.md",
     "Buffer overflow/4. Find module.md",
     "Buffer overflow/2. Offset.md",
     "Buffer overflow/1. Fuzz.md",
-    "LFI/Bypass filters.md",
-    "Privesc/Linux/Cronjob.md",
-    "LFI/Interesting files.md",
-    "LFI/Log Poisoning.md",
-    "LFI/0. What is LFI.md",
-    "Privesc/Linux/Getcap.md",
-    "Privesc/Linux/Sudo.md",
-    "Privesc/Linux/LXD.md",
-    "Privesc/Both/Firefox decrypt.md",
-    "Payloads/Payloads.md",
-    "Payloads/Staged and Stageless payloads.md",
+    "Post Exploit/Privesc/Both/Firefox decrypt.md",
     "Payloads",
     "Buffer overflow/Mona.md",
     "Buffer overflow/3. Bad characters.md",
     "Staged and Stageless.md",
-    "Privesc/Linux/Suid.md",
     "LFI",
     "LFI",
     "IP and stuff.md",
     "Stuff.md",
     "Test.md",
     "Untitled.canvas",
-    "2023-10-19.md",
-    "Privesc/Windows/Untitled.md"
+    "2023-10-19.md"
   ]
 }
