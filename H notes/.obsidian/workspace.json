@@ -11,8 +11,12 @@
             "id": "277f3b51bf5ec8fb",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "LFI/Interesting files.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "LFI/Interesting files.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "LFI/Interesting files.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "LFI/Interesting files.md"
+              }
             }
           }
         ],
@@ -141,6 +149,9 @@
   },
   "active": "277f3b51bf5ec8fb",
   "lastOpenFiles": [
+    "LFI/Bypass filters.md",
+    "LFI/0. What is LFI.md",
+    "Buffer overflow/1. Fuzz.md",
     "Stabilizing shell.md",
     "Post Exploit/History files.md",
     "Post Exploit/Privesc/Linux/Cronjob.md",
@@ -148,8 +159,6 @@
     "Payloads/Staged and Stageless payloads.md",
     "Post Exploit",
     "Payloads/Payloads.md",
-    "LFI/0. What is LFI.md",
-    "LFI/Bypass filters.md",
     "LFI/Interesting files.md",
     "LFI/Log Poisoning.md",
     "Post Exploit/Privesc/Linux/Suid.md",
@@ -159,7 +168,6 @@
     "Buffer overflow/5. Generate shellcode.md",
     "Buffer overflow/4. Find module.md",
     "Buffer overflow/2. Offset.md",
-    "Buffer overflow/1. Fuzz.md",
     "Post Exploit/Privesc/Both/Firefox decrypt.md",
     "Payloads",
     "Buffer overflow/Mona.md",
