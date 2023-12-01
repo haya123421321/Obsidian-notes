@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Upload php to image uploader bypass.md",
+                "file": "Post Exploit/Privesc/Linux/Linpeas.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Upload php to image uploader bypass.md",
+                "file": "Post Exploit/Privesc/Linux/Linpeas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Upload php to image uploader bypass.md",
+                "file": "Post Exploit/Privesc/Linux/Linpeas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Upload php to image uploader bypass.md"
+                "file": "Post Exploit/Privesc/Linux/Linpeas.md"
               }
             }
           }
