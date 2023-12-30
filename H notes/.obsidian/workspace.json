@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2b8de1bfa75e644f",
+            "id": "f872588b89bc0761",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Post Exploit/Privesc/Linux/Linpeas.md",
+                "file": "Post Exploit/Privesc/Linux/Suid.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Post Exploit/Privesc/Linux/Linpeas.md",
+                "file": "Post Exploit/Privesc/Linux/Suid.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Post Exploit/Privesc/Linux/Linpeas.md",
+                "file": "Post Exploit/Privesc/Linux/Suid.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Post Exploit/Privesc/Linux/Linpeas.md"
+                "file": "Post Exploit/Privesc/Linux/Suid.md"
               }
             }
           }
@@ -147,24 +147,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2b8de1bfa75e644f",
+  "active": "f872588b89bc0761",
   "lastOpenFiles": [
-    "Stabilizing shell.md",
-    "Upload php to image uploader bypass.md",
-    "Post Exploit/History files.md",
-    "Post Exploit/Privesc/Linux/Linpeas.md",
+    "Editable files.md",
+    "Check processes.md",
     "Post Exploit/Privesc/Linux/Suid.md",
+    "Post Exploit/Privesc/Linux/Editable files.md",
     "Post Exploit/Privesc/Linux/Sudo.md",
     "Post Exploit/Privesc/Linux/LXD.md",
+    "Post Exploit/Privesc/Linux/Linpeas.md",
     "Post Exploit/Privesc/Linux/Getcap.md",
+    "Stabilizing shell.md",
     "Post Exploit/Privesc/Linux/Cronjob.md",
+    "Payloads/Payloads.md",
+    "Post Exploit/History files.md",
+    "Upload php to image uploader bypass.md",
     "LFI/Interesting files.md",
     "LFI/Bypass filters.md",
     "LFI/0. What is LFI.md",
     "Buffer overflow/1. Fuzz.md",
     "Payloads/Staged and Stageless payloads.md",
     "Post Exploit",
-    "Payloads/Payloads.md",
     "LFI/Log Poisoning.md",
     "Buffer overflow/5. Generate shellcode.md",
     "Buffer overflow/4. Find module.md",
@@ -176,9 +179,6 @@
     "Staged and Stageless.md",
     "LFI",
     "LFI",
-    "IP and stuff.md",
-    "Stuff.md",
-    "Test.md",
     "Untitled.canvas"
   ]
 }
